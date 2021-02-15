@@ -1,0 +1,17 @@
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\bin\Debug\BonusProje1.exe.config
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\bin\Debug\BonusProje1.exe
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\bin\Debug\BonusProje1.pdb
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.Form1.resources
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.Properties.Resources.resources
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.exe
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.pdb
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.frmOgrNot.resources
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.frmOgretmen.resources
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.frmKulup.resources
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.frmders.resources
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.frmOgrenci.resources
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.FrmSınavNotlar.resources
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\BonusProje1\obj\Debug\BonusProje1.FrmOgretmenler.resources
